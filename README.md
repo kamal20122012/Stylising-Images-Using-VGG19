@@ -6,3 +6,5 @@ You need to download all the files as it is and run the 'self_trained_best.ipynb
 The code can be used to train your own model, based on data in 'data' folder. If you are training on your won dataset, make sure to add the dataset in data folder, in such a way that all the images of a single class are in the same folder, and all these folders should be in the data folder.
 
 The image size used in the network is (224,224) do you can use the 'resize.ipynb' to resize all your images in the dataset before training the model.
+
+the weights trained by me on this dataset are available at [https://drive.google.com/file/d/1xTLF9tXeZ_RQ_OTldU3tLiCR_cP-uBeb/view?usp=sharing](url) to run the main code directly, you may have to download this first and keep it in the same directory as the code.
